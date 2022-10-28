@@ -103,7 +103,11 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
   <summary> • Credits 🏅 • </summary>
   
 • Inspired from all the userbots available publically for telegram.
+
 • Motivated mainly by LEGENDBOT and Catuserbot.
+
 • [LonamiWebs](https://github.com/LonamiWebs/Telethon) for Telethon.
+
 • [TECHNO](https://github.com/TECHNOBOT-OP):DEV
+
 • Plugins credit goes to [LEGENDBOT](https://github.com/LEGEND-AI/LEGENDBOT)
