@@ -1,11 +1,34 @@
 
 <h1 align="center">⚡ 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥 ⚡</h1>
 
+[![Bot logo](https://telegra.ph/file/b3af720021620b4f88a66.jpg)](https://t.me/TechnoBot_Support)
 
-<h2>This is a userbot made for telegram. 
-This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
-[![Bot logo](https://te.legra.ph/file/33f754dab4aecbc1e19f7.jpg)](https://t.me/TechnoBot_Support)
+<h6>This is a userbot made for telegram. 
+This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h6>
+
+[![](https://img.shields.io/badge/TECHNOBOT-v1.1-blue)](#)
+[![Stars](https://img.shields.io/github/stars/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=yellow)](https://github.com/TECHNOBOT-OP/TECHNOBOT/stargazers)
+[![Forks](https://img.shields.io/github/forks/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=orange)](https://github.com/TECHNOBOT-OP/TECHNOBOT/fork)
+[![Size](https://img.shields.io/github/repo-size/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=green)](https://github.com/TECHNOBOT-OP/TECHNOBOT/)   
+[![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TECHNOBOT-OP/TECHNOBOT/graphs/commit-activity)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TECHNOBOT-OP/TECHNOBOT)
+[![Contributors](https://img.shields.io/github/contributors/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=green)](https://github.com/TECHNOBOT-OP/TECHNOBOT/graphs/contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TECHNOBOT-OP/TECHNOBOT/blob/master/LICENSE)   
+
+------
+
+## Status Of Bot 
+<p align="left">
+    <a href="https://github.com/TECHNOBOT-OP/TECHNOBOT/network/members"><img src="https://img.shields.io/github/forks/TECHNOBOT-OP/TECHNOBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT/stargazers"><img src="https://img.shields.io/github/stars/TECHNOBOT-OP/TECHNOBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT"></a><p align="left"><a href="https://github.com/TECHNOBOT-OP/TECHNOBOT?"></a>
+
+------
+
+## Telegram 🏪
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/TechnoBot_Support)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/TechnoBot_Updates)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
