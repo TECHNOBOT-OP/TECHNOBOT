@@ -42,6 +42,10 @@ This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. D
 <p align="center"><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-grey?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </a>
 
+<h3> DEPLOY TO RAILWAY </h3>
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/pmOzzm?referralCode=JIyfRa)
+
 <h3> StringSession </h3>
 
 
