@@ -1,6 +1,6 @@
 {
-  "name": "Technobot",
-  "description": "TechnoBot is one of the best userbot on telegram based on telethon & python",
+  "name": "Kingbot",
+  "description": "KingBot is one of the best userbot on telegram based on telethon & python",
   "logo": "https://te.legra.ph/file/d882eee939a66432650b4.jpg",
   "keywords": [
     "plugin",
@@ -8,7 +8,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TECHNOBOT-OP/TECHNOBOT",
+  "repository": "https://github.com/Waywaygoyal/TECHNOBOT",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
