@@ -44,7 +44,7 @@ This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. D
 
 <h3> ᴅᴇᴘʟᴏʏ ᴛᴏ ᴋᴏʏᴇʙ </h3>
 
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TECHNOBOT-OP/TECHNOUSERBOT&branch=master&'run_command=gunicorn app:app & python3 -m Technobot'&name=TECHNOBOT&env[env]=True&env[ALIVE_NAME]=None"> <img src="https://www.koyeb.com/static/images/deploy/button.svg">
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TECHNOBOT-OP/TECHNOUSERBOT&branch=master&'run_command=gunicorn app:app & python3 -m Technobot'&name=TECHNOBOT&env[ENV]=True&env[ALIVE_NAME]=None&env[APP_ID]=None&env[API_HASH]=None&env[TECHNO_STRING]=None&env[BOT_TOKEN]=None&env[DATABASE_URL]=None&env[EXTRA_REPO]=True&env[UPSTREAM_REPO]=pro&env[TZ]=Asia/Kolkata"> <img src="https://www.koyeb.com/static/images/deploy/button.svg">
 
 <h3> StringSession </h3>
 
