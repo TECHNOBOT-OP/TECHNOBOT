@@ -43,10 +43,10 @@ This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. D
 </a>
 
 <h3> ᴅᴇᴘʟᴏʏ ᴛᴏ ᴋᴏʏᴇʙ </h3>
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TECHNOBOT-OP/TECHNOUSERBOT&branch=master&`run_command=gunicorn app:app & python3 -m Technobot`&name=tbot)
+
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TECHNOBOT-OP/TECHNOUSERBOT&branch=master&run_command='gunicorn app:app & python3 -m Technobot'&name=TECHNOBOT"> <img src="https://www.koyeb.com/static/images/deploy/button.svg">
 
 <h3> StringSession </h3>
-
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Technoboy02/TechnoString?v=1) 
 
