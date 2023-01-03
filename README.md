@@ -37,10 +37,14 @@ This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. D
 <h2 align="center">⚙️ D E P L O Y I N G ⚙️</h2>
 
 
-<h3> DEPLOY TO HEROKU </h3>
+<h3> ∂єρℓσу тσ нєяσкυ</h3>
 
 <p align="center"><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-grey?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </a>
+
+<h3> ᴅᴇᴘʟᴏʏ ᴛᴏ ᴋᴏʏᴇʙ </ʜ𝟹>
+
+<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TECHNOBOT-OP/TECHNOUSERBOT&branch=master&run_command=gunicorn appn:app & python3 -m Technobot&name=tbot"
 
 <h3> StringSession </h3>
 
