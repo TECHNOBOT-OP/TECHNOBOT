@@ -53,21 +53,70 @@ This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. D
     - String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
+<h1 align="center">TO HOST 𝕋𝕖𝕔𝕙𝕟𝕠𝔹𝕠𝕥 LOCALLY ON ANY OTHER VPS FOLLOW THE CMDS</h1>
 
-<h2 align="center"> <a href="https://github.com/TECHNOBOY-OP/TECHNOBOT">⚡ 𝕋 𝕖 𝕔 𝕙 𝕟 𝕠 𝔹 𝕠 𝕥 ⚡</a></h2>
+```bash
+sudo apt update && sudo apt upgrade -y`
 
-## Mandatory Vars
+sudo apt install --no-install-recommends -y curl git libffi-dev libjpeg-dev libwebp-dev python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget python3 python3-dev libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-venv libmagickwand-dev pv tree mediainfo
 
-- Only two of the environment variables are mandatory.
+git clone https://github.com/TECHNOBOT-OP/TECHNOUSERBOT tbot
 
-- This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
+cd tbot
 
-    - `APP_ID`:   You can get this value from https://my.telegram.org
+sudo apt install virtualenv
 
-    - `API_HASH`:   You can get this value from https://my.telegram.org
+sudo apt install nano
 
-- The userbot will not work without setting the mandatory vars.
+mv exampleconfig.py config.py
+```
+
+```bash
+nano config.py
+```
+ (fill this) -> ctrl+x -> y -> enter
+
+```bash
+sudo apt install screen
+
+screen -S tbot
+
+virtualenv venv
+
+source venv/bin/activate
+
+pip3 install -r requirements.txt
+
+sudo apt install tmux
+
+tmux
+
+source venv/bin/activate
+
+pip3 install -r requirements.txt
+
+python3 -m Technobot
+```
+ 
+ 
+------
+
+## Variables
+
+- `APP_ID`  =  Get this value from my.telegram.org
+- `API_HASH`  =  Get this value from my.telegram.org
+- `TECHNO_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+- `DB_URI` = Use Sql Database  From elephantsql.com
+- `HANDLER` = Use Your Command Handler Any Symbol
+- `EXTRA_REPO` = True / False
+- `UPSTREAM_REPO` = pro
+- `TZ` = Asia/Kolkata 
+
+    </details>
+------
+
+- The userbot will not work without setting these vars.
 
 
 ### Official Supports ✅ 
