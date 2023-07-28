@@ -18,23 +18,23 @@
     },
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "value": "BEFIRKA",
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "15225597",
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "206429708962be696819ae76f5ce0c47"
     },
     "TECHNO_STRING": {
       "description": "Get this value by running https://replit.com/@Technoboy02/TechnoString?v=1",
-      "value": ""
+      "value": "1BVtsOHgBuyCIXIEH2CWU0ll5TFYTjimCQlZg3zg7l4WGBgQYq1NUjHfO-6-eR3V5jKIG0bAXXxHrzCOByHuSWy5qIGr6L0X1a4O35WnBIE9Mbk2wE8CPawyOFgcuqlzAoHAeMEygWhGBJVXwBdUW_SjeWXSXli22xfLGP5sxziGw3wt-lZumCt1O6nwhgBG_4OE5mt8E7eGidDhrGwntRTrDvkqRTLca-ovw02649haeVvSw3uqtQlKdXIu2p-ZiTJgvxdixLUGkolYcPd3wbA0YmBqD3w2PxGX-QjGqLUutfIMZtygsY2TPP93in1A9AWbGuScajCSlR_UvugMGHJr7K4huWPM="
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": ""
+      "value": "6489062541:AAFxgHzvmE9NmZcPbnD8pANY_l4hzmvml6k"
     },
     "HANDLER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
@@ -43,12 +43,12 @@
     },
     "API_KEY": {
       "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
-      "value": "",
+      "value": "85dccd03-89e2-4e39-aef0-d33f89b3e220",
       "required": false
     },
     "APP_NAME": {
       "description": "YOUR app name ",
-      "value": "",
+      "value": "befirkahy7",
       "required": false
     },
     "UPSTREAM_REPO": {
