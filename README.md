@@ -11,7 +11,7 @@ This is the one and only official TechnoBot💖 Userbot made by @Technoboy_02. D
 [![Stars](https://img.shields.io/github/stars/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=yellow)](https://github.com/TECHNOBOT-OP/TECHNOBOT/stargazers)
 [![Forks](https://img.shields.io/github/forks/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=orange)](https://github.com/TECHNOBOT-OP/TECHNOBOT/fork)
 [![Size](https://img.shields.io/github/repo-size/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=green)](https://github.com/TECHNOBOT-OP/TECHNOBOT/)   
-[![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-v3.10.13-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TECHNOBOT-OP/TECHNOBOT/graphs/commit-activity)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TECHNOBOT-OP/TECHNOBOT)
 [![Contributors](https://img.shields.io/github/contributors/TECHNOBOT-OP/TECHNOBOT?style=flat-square&color=green)](https://github.com/TECHNOBOT-OP/TECHNOBOT/graphs/contributors)
